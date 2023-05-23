@@ -10,3 +10,4 @@ echo The current directory is $PWD #gives the current directory
 
 name="Anwesha"
 echo "My name is $name "
+
